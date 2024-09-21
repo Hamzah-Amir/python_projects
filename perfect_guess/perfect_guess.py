@@ -1,6 +1,8 @@
-
-
 import random as r
+
+print("""Let me explain you rules of this game, The program will generate a random number
+between 1 and 50 and you have to guess it correctly, it will assist you with your choices
+and remeber only integer are allowed """)
 
 num = r.randint(1 , 50)
 
